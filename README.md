@@ -4,7 +4,7 @@ There is evidence of academic dishonesty regarding one grade-level of students a
 district's high schools. The testing scores for this select group had to be removed and the 
 analysis was reconducted to produce more accurate results.
 
-# Results
+## Results
  - How is the district summary affected?
     The percentage math, reading, and overall passing scores for the district were altered slightly
 The passing math percentage went from 74.9 to 74.8; reading went from 85.8 to 85.7; overall
@@ -21,25 +21,25 @@ performance relative to the other schools?
  to the 2nd highest performing school in the district.
  
  - How does replacing the ninth-grade scores affect the following:
-	- Math and reading scores by grade
+	- Math and reading scores by grade:
 	  The math and reading scores by grade show "NaN" under the 9th grade for Thomas High School.
 
-	- Scores by school spending
+	- Scores by school spending:
 	  The missing values do not drastically change the results. THS ninth graders make up 
 	roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show
 	no changes in results.
   
-	- Scores by school size
+	- Scores by school size:
 	  The missing values do not drastically change the results. THS ninth graders make up 
 	roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show
 	no changes in results.
   
-	- Scores by school type
+	- Scores by school type:
 	  The missing values do not drastically change the results. THS ninth graders make up 
 	roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show
 	no changes in results.
 
-##Summary
+## Summary
 When comparing the analysis with removal of the ninth grade at Thomas High School, the district's
  math, reading, and overall percent passing scores decreased betweenone to three hundreths of a 
 percentage. Thomas High School's percentages for each of those metrics drastically increased with
