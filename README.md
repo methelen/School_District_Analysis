@@ -1,5 +1,5 @@
 # School_District_Analysis
-# Overview of the school district analysis
+## Overview of the school district analysis
 There is evidence of academic dishonesty regarding one grade-level of students at one of the
 district's high schools. The testing scores for this select group had to be removed and the 
 analysis was reconducted to produce more accurate results.
@@ -9,14 +9,17 @@ analysis was reconducted to produce more accurate results.
     The percentage math, reading, and overall passing scores for the district were altered slightly
 The passing math percentage went from 74.9 to 74.8; reading went from 85.8 to 85.7; overall
 passing went from 65.2 to 64.9.
-    
-Original Analysis
-![image](https://user-images.githubusercontent.com/90434010/137838241-8c6cd056-20e4-4dec-a14a-0c8aa2d9d538.png)
 
  - How is the school summary affected?
     Thomas High Schools percentages were changed dramatically. The % passing math went from 66.9 to 
 93.2, percent passing reading went from 69.7 to 97.0, and the overall passing percentage went
 from 65.1 to 90.6.
+
+Original Analysis
+![image](https://user-images.githubusercontent.com/90434010/137838471-a39f6d66-c412-4dee-81a0-81aa91c69d40.png)
+
+Updated Analysis
+![image](https://user-images.githubusercontent.com/90434010/137838532-9b00d441-f030-4039-9348-6e88b28e3272.png)
 
  - How does replacing the ninth graders' math and reading scores affect Thomas High School's
 performance relative to the other schools?
