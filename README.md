@@ -10,6 +10,9 @@ analysis was reconducted to produce more accurate results.
 The passing math percentage went from 74.9 to 74.8; reading went from 85.8 to 85.7; overall
 passing went from 65.2 to 64.9.
     
+Original Analysis
+![image](https://user-images.githubusercontent.com/90434010/137838241-8c6cd056-20e4-4dec-a14a-0c8aa2d9d538.png)
+
  - How is the school summary affected?
     Thomas High Schools percentages were changed dramatically. The % passing math went from 66.9 to 
 93.2, percent passing reading went from 69.7 to 97.0, and the overall passing percentage went
