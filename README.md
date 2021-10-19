@@ -26,24 +26,22 @@ Updated Analysis
 By removing the ninth-grade math and reading scores, Thomas High School has moved from the 8th to the 2nd highest performing school in the district.
  
  - How does replacing the ninth-grade scores affect the following:
+	
 	- Math and reading scores by grade
 
 The math and reading scores by grade show "NaN" under the 9th grade for Thomas High School.
 
-	- Scores by school spending:
-	  The missing values do not drastically change the results. THS ninth graders make up 
-	roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show
-	no changes in results.
+	- Scores by school spending
+	
+The missing values do not drastically change the results. THS ninth graders make up roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show no changes in results.
   
-	- Scores by school size:
-	  The missing values do not drastically change the results. THS ninth graders make up 
-	roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show
-	no changes in results.
+	- Scores by school size
+
+The missing values do not drastically change the results. THS ninth graders make up roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show no changes in results.
   
 	- Scores by school type:
-	  The missing values do not drastically change the results. THS ninth graders make up 
-	roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show
-	no changes in results.
+	
+The missing values do not drastically change the results. THS ninth graders make up roughly 1.2 % of the data set, so the analysis to the tenth or whole percent will show no changes in results.
 
 ## Summary
 When comparing the analysis with removal of the ninth grade at Thomas High School, the district's
